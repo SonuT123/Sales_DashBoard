@@ -1,4 +1,4 @@
 # Sales_DashBoard
 sales dashboard project from Excel
 <br>
-Author by Singh
+Author by Sonu Singh
